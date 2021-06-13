@@ -1,1 +1,5 @@
-WAVE SIMULATION IN PYTHON !!! HYPERBOLIC PDE SOLVING AND SPRING MODEL APPROXIMATIONS !!!
+# pywave
+WAVE SIMULATIONS IN PYTHON !!!
+- Hyperbolic PDE solving 
+- Spring-Model Approximations 
+- Animations
